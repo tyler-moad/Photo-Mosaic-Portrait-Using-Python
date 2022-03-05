@@ -3,4 +3,4 @@ A photomosaic iss a picture that has been divided into equal sized tiled section
 In this repository, I implement an algorithm to generate a photomosaic portraits using Python.
 ##### Here is an example of a photmosaic portrait generated using random pictures of Kanye West and his album covers:
 ![alt text](/example/kanye.jpg)
-![alt text](/example/kanye_try2.jpg)
+![alt text](/example/kanye_try2.jpeg)
