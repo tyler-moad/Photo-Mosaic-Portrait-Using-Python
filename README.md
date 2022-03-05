@@ -7,7 +7,7 @@ In this repository, I implement an algorithm to generate a photomosaic portraits
 
 ##### Here is an example of a photmosaic portrait generated using random pictures of Kanye West and his album covers:
 
-<img style="float: right;" src="/example/kanye.jpg" width="700" height="300" />
-<img style="float: left;" src="/example/kanye_try2.jpeg" width="700" height="300"/>
+<img style="float: right;" src="/example/kanye.jpg" width="680" height="300" />
+<img style="float: left;" src="/example/kanye_try2.jpeg" width="680" height="300"/>
 
 ##### Other examples are available in folder.
